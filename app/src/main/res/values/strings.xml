@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">Quiz App</string>
+    <string name="description">This is a Quiz app made by Virabhadrasinh Barad Thank You</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="quiz_category">Quiz</string>
+    <string name="q5">If a = b, b = d, c = d, d = 0, e = c, a is less than g, d less than h and f = a. Choose the correct expression among the followings</string>
+    <string name="q6">A 90kg particle A with a mass of 50cm.cu and a 80kg particle B with a mass of 60cm.cu; which particle is heavier? Please fill in either Particle A or Particle B:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="fill_name">Fill in your name</string>
+    <string name="welcome_message">Welcome User</string>
+    <string name="n1">Question 1.</string>
+    <string name="n2">Question 2</string>
+    <string name="q1">Between a stone of 5kg and a very big sack of sand weighing 5kg, which is heavier ?</string>
+    <string name="q2">If you divide any number by zero i.e 5/0; what is the result ?</string>
+    <string name="sand">Sand</string>
+    <string name="stone">Stone</string>
+    <string name="none">None</string>
+    <string name="zero">Zero</string>
+    <string name="undefined">Undefined</string>
+    <string name="sine">Sin^-1 (5)</string>
+    <string name="n3">Question 3.</string>
+    <string name="q3">Entity A trades with $100,000 capital and makes a profit of $3000/yr; and Entity B with $60,000 capital and a profit of $2200/yr; which is performing better ?</string>
+    <string name="entityA">Entity A</string>
+    <string name="entityB">Entity B</string>
+    <string name="n4">Question 4.</string>
+    <string name="q4">Entity A trades with $100,000 capital and makes a loss of $3000/yr; and Entity B with $60,000 capital and a loss of $2200/yr; which is performing better ?</string>
+    <string name="n5">Question 5.</string>
+    <string name="opt1">f = 0</string>
+    <string name="opt2">d is greater than h</string>
+    <string name="opt3">a = g</string>
+    <string name="opt4">h is greater than c</string>
+    <string name="n6">Question 6.</string>
+
+
+
+</resources>
